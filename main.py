@@ -1,5 +1,5 @@
 import subprocess
-input_file = "ip.txt"
+input_file = "ip-addr.txt"
 output_file = "output.txt"
 
 def ping_ip(ip):
